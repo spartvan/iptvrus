@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Россия",Шансон-ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Россия",9 Волна
+http://cdn-01.bonus-tv.ru/9volna/index.m3u8
