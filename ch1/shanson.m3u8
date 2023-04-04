@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:2
+#EXT-X-STREAM-INF:BANDWIDTH=5242880,PROGRAM-ID=1
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+
